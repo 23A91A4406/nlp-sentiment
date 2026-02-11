@@ -40,7 +40,7 @@ All generated artifacts are stored in the output/ directory:
 * lda_visualization.html
 
 ## Project Structure
-
+```bash 
 ├── data/
 ├── output/
 ├── src/
@@ -52,7 +52,7 @@ All generated artifacts are stored in the output/ directory:
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Running the Application
 
